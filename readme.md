@@ -6,6 +6,6 @@ Just some SQL stuff so I can revere to it when needed.
 ###[Views][]
 ###[Functions][]
 
-[basic sql]: /basic_sql.md
-[views]: /views.md
-[functions]: /functions.md
+[basic sql]: SQL-Cheatsheets/blob/master/basic_sql.md
+[views]: SQL-Cheatsheets/blob/master/views.md
+[functions]: SQL-Cheatsheets/blob/master/functions.md
