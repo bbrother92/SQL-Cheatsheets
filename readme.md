@@ -6,6 +6,6 @@ Just some SQL stuff so I can revere to it when needed.
 ###[Views][]
 ###[Functions][]
 
-[basic sql]: basic_sql.md
-[views]: views.md
-[functions]: functions.md
+[basic sql]: /basic_sql.md
+[views]: /views.md
+[functions]: /functions.md
