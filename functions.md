@@ -27,10 +27,10 @@
 		<td>Displays date/time data in different formats <em><small>(data_type is output data_type *optional length. expression is value to be converted. style is the output format.)</small><em></td>
 	</tr>
 </table>
-<table width="100%">
+<table>
   <tr>
-    <th width="50%">datepart</th>
-    <th width="50%">Abbreviation</th>
+    <th>datepart</th>
+    <th>Abbreviation</th>
   </tr>
   <tr>
     <td>year</td>
