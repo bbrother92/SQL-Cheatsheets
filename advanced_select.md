@@ -40,5 +40,10 @@ The `UNION` Operator combines two or more `SELECT` statements.
 	INTO <new_table_name> [IN <external_database>]
 	FROM <old_table_name>	
 	//or only the columns we want instead of the * operator
+	
+	//first drop the table you want to be replaced by the table from the other database
+	CREATE TABLE <dbname.tablename> LIKE <dbname.tablename>;
+	INSERT INTO <dbname.tablename> SELECT * FROM <dbname.tablename>;
+
 
 A `WHERE` clause could be used to filter. And a `JOIN` can be used to copy from multiple tables.
